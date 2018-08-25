@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 ## Introduction
-
+This example is to show different parts o fthe Gitrepository
+and various commands using a web project
 ## Purpose
 
 ## Deployment
