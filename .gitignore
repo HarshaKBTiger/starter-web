@@ -1,3 +1,4 @@
 r*.txt
 *.log
 log/
+*.orig
