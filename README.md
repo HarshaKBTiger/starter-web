@@ -12,6 +12,7 @@ examples for Git training demos
 This is a simple web project,deployment can be on any web sever or even local file system
 
 ## How To Contribute
+Please fork this repository and then issue Pull requests for review
 We all contribute and will be explained as below
 
 Sample website with plenty of files for demos
